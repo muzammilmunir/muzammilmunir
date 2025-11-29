@@ -1,21 +1,21 @@
 <h1 align="center">
-  Hi there, I'm Muhammad Amas <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="👋" width="30">
+  Hi there, I'm Muzammil Munir <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="👋" width="30">
 </h1>
 
 <p align="center">
-  <a href="https://muhammadamas.medium.com/" target="_blank">
+  <!-- <a href="https://muhammadamas.medium.com/" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://twitter.com/AmasWaseem" target="_blank">
+  </a> -->
+  <a href="https://twitter.com/muzzameal" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/amaswaseem/" target="_blank">
+  <a href="https://www.linkedin.com/in/muzammilmunirdeveloper" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/mohammad.amas.79/" target="_blank">
+  <!-- <a href="https://www.facebook.com/mohammad.amas.79/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/amas_waseem/" target="_blank">
+  </a> -->
+  <a href="https://www.instagram.com/muzameal" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
@@ -32,31 +32,22 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Muhammad Amas**, a passionate **Software Engineer** with 2+ years of experience in developing scalable cloud-integrated web applications and secure backend systems. My technical expertise spans modern JavaScript frameworks, cloud platforms, and performance-optimized UI development.
+Hi! I'm **Muhammad Muzammil**, a passionate **MERN Stack Developer** with 2+ years of experience in developing scalable web applications and secure backend systems. My technical expertise spans modern JavaScript frameworks and performance-optimized UI development.
 
-💡 Currently, I'm working at **Cloudnosys** — a B2B cloud security SaaS platform — where I help build secure and visual cloud environments using advanced technologies like **React** and **Node**.
+💡 Currently, I'm working at **Tech021** — where I help build secure and visual cloud environments using advanced technologies like **React** and **Node**.
 
-📍 Based in Karachi, Pakistan — but working with global teams across Frontend, Backend, DevSecOps, MLOps, and security engineering.
+📍 Based in Karachi, Pakistan — but working with global teams across Frontend, Backend, Wordpress, Shopify
 
 ---
 
 ## 🧠 What I Do
 
 - 🎨 **Modern UI Engineering**  
-  Built high-performance frontends using **React**, **Next.js**, **Tailwind CSS**, and **Ant Design**.
+  Built high-performance frontends using **React**, **Next.js**, and **Tailwind CSS**.
 
 - ⚙️ **Backend & API Engineering**  
-  Design and build robust APIs with Node.js, Express, and GraphQL for secure and scalable services.
-
-- 🛡 **Security-First Engineering**  
-  Visualize attack paths, identify blast radius, and represent misconfigurations across cloud infrastructure.
-
-- ☁️ **Cloud Native Development**  
-  Hands-on with AWS, GCP, Firebase, and serverless architectures.
-
-- 🧾 **Compliance-Aware Development**  
-  Integrated CIS, ISO 27001, NIST, GDPR, and Saudi NCA controls into live dashboards and audits.
-
+  Design and build robust APIs with Node.js, Express, WP-JSON API, and Admin API for secure and scalable services.
+  
 ---
 
 ## 🛠️ Technologies & Tools
@@ -97,45 +88,24 @@ Realtime room scheduler using Vite + Tailwind + Firebase.
 
 ---
 
-## 🎖 Certifications
-
-- 🏅 [Google Cloud Digital Leader](https://www.credly.com/badges/81e98727-c579-4ce6-ba20-3e853c51bb33)
-- 🏅 [McKinsey Forward (Advanced)](https://www.credly.com/badges/31250515-f4b2-4a5e-be49-14ef37d1f3e7)
-- 🏅 [Back-End Development & APIs (freeCodeCamp)](https://www.freecodecamp.org/certification/muhammadamas/back-end-development-and-apis)
-- ⏳ Google Cloud Associate Cloud Engineer (in progress)
-
----
-
 ## 🏆 Awards & Leadership
 
-- 🥇 **Gold Medalist** — University of Karachi (2024)  
-  Recognized for outstanding co-curricular contributions
-
-- 🚀 **GDSC – Executive Lead & Technical Co-Lead**  
-
----
-
-## ☕ Support Me
-
-If you like what I do, consider buying me a coffee 😊
-
-<a href="https://www.buymeacoffee.com/muhammadamas" target="_blank">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=muhammadamas&button_colour=BD5FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" />
-</a>
-
+- 🥇 **Frontend Lead** — Tech021 — Present  
+  Recognized for outstanding contributions
+  
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadamas&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammilmunir&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadamas&langs_count=8&layout=compact&theme=gruvbox" width="350" />
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadamas&theme=gruvbox&show_icons=true" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammilmunir&langs_count=8&layout=compact&theme=gruvbox" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muzammilmunir&theme=gruvbox&show_icons=true" width="420" />
 </p>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=muhammadamas&theme=gruvbox&hide_border=false" width="100%" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=muzammilmunir&theme=gruvbox&hide_border=false" width="100%" />
 </p>
 
 ---
@@ -143,8 +113,8 @@ If you like what I do, consider buying me a coffee 😊
 ## 📈 Profile Insights
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammadamas" alt="Profile Views" />
-  <a href="https://github.com/muhammadamas?tab=followers">
-    <img src="https://img.shields.io/github/followers/muhammadamas?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=muzammilmunir" alt="Profile Views" />
+  <a href="https://github.com/muzammilmunir?tab=followers">
+    <img src="https://img.shields.io/github/followers/muzammilmunir?label=Followers&style=social" alt="GitHub Followers" />
   </a>
 </p>
