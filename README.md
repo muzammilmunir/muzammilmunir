@@ -3,18 +3,12 @@
 </h1>
 
 <p align="center">
-  <!-- <a href="https://muhammadamas.medium.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a> -->
   <a href="https://twitter.com/muzzameal" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.linkedin.com/in/muzammilmunirdeveloper" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- <a href="https://www.facebook.com/mohammad.amas.79/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a> -->
   <a href="https://www.instagram.com/muzameal" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
@@ -71,20 +65,17 @@ Hi! I'm **Muzammil Munir**, a passionate **MERN Stack Developer** with 2+ years 
 
 ## 🚀 Featured Projects
 
-### 🔹 InsightEdu  
-AI-powered EdTech platform with attentiveness tracking using MediaPipe + Firebase.
-
 ### 🔹 NestJS GraphQL Chatbot  
 Real-time chatbot with GraphQL subscriptions and Supabase realtime events.  
-🔗 [View on GitHub](https://github.com/MuhammadAmas/nestjs-graphql-chatbot)
+🔗 [View on GitHub](https://github.com/muzammilmunir/nestjs-graphql-chatbot)
 
 ### 🔹 Learning Management System  
 Robust course management system using React, PostgreSQL, and Chakra UI.  
-🔗 [View on GitHub](https://github.com/MuhammadAmas/lms)
+🔗 [View on GitHub](https://github.com/muzammilmunir/lms)
 
 ### 🔹 FuturConnect Dashboard  
 Realtime room scheduler using Vite + Tailwind + Firebase.  
-🔗 [View on GitHub](https://github.com/MuhammadAmas/FuturConnect)
+🔗 [View on GitHub](https://github.com/muzammilmunir/FuturConnect)
 
 ---
 
@@ -100,10 +91,6 @@ Realtime room scheduler using Vite + Tailwind + Firebase.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSarimWaseem&theme=gruvbox&hide_border=true" alt="Streak Stats"/>
 </p>
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammilmunir&langs_count=8&layout=compact&theme=gruvbox" width="350" />
-  <img src="https://github-readme-stats.vercel.app/api?username=muzammilmunir&theme=gruvbox&show_icons=true" width="420" />
-</p> -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muzammilmunir&theme=gruvbox&hide_border=false" width="100%" />
 </p>
