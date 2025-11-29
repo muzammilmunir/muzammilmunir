@@ -32,7 +32,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Muhammad Muzammil**, a passionate **MERN Stack Developer** with 2+ years of experience in developing scalable web applications and secure backend systems. My technical expertise spans modern JavaScript frameworks and performance-optimized UI development.
+Hi! I'm **Muzammil Munir**, a passionate **MERN Stack Developer** with 2+ years of experience in developing scalable web applications and secure backend systems. My technical expertise spans modern JavaScript frameworks and performance-optimized UI development.
 
 💡 Currently, I'm working at **Tech021** — where I help build secure and visual cloud environments using advanced technologies like **React** and **Node**.
 
@@ -98,14 +98,21 @@ Realtime room scheduler using Vite + Tailwind + Firebase.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammilmunir&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=muzammilmunir&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammilmunir&langs_count=8&layout=compact&theme=gruvbox" width="350" />
   <img src="https://github-readme-stats.vercel.app/api?username=muzammilmunir&theme=gruvbox&show_icons=true" width="420" />
-</p>
+</p> -->
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=muzammilmunir&theme=gruvbox&hide_border=false" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muzammilmunir&theme=gruvbox&hide_border=false" width="100%" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muzammilmunir&theme=gruvbox&no-frame=true&margin-w=5&margin-h=5" />
 </p>
 
 ---
