@@ -73,9 +73,9 @@ Real-time chatbot with GraphQL subscriptions and Supabase realtime events.
 Robust course management system using React, PostgreSQL, and Chakra UI.  
 🔗 [View on GitHub](https://github.com/muzammilmunir/lms)
 
-### 🔹 FuturConnect Dashboard  
+### 🔹 Future Connect Dashboard  
 Realtime room scheduler using Vite + Tailwind + Firebase.  
-🔗 [View on GitHub](https://github.com/muzammilmunir/FuturConnect)
+🔗 [View on GitHub](https://github.com/muzammilmunir/Future-Connect)
 
 ---
 
