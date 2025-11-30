@@ -48,11 +48,11 @@ Hi! I'm **Muzammil Munir**, a passionate **MERN Stack Developer** with 2+ years 
 
 ### Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
 
 ### Tools & Platforms
 ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat)
@@ -65,13 +65,13 @@ Hi! I'm **Muzammil Munir**, a passionate **MERN Stack Developer** with 2+ years 
 
 ## 🚀 Featured Projects
 
-### 🔹 NestJS GraphQL Chatbot  
+### 🔹 Web Accessibility Checker 
 Real-time chatbot with GraphQL subscriptions and Supabase realtime events.  
-🔗 [View on GitHub](https://github.com/muzammilmunir/nestjs-graphql-chatbot)
+🔗 [View on GitHub](https://github.com/muzammilmunir/web-accessibility-checker)
 
 ### 🔹 Learning Management System  
 Robust course management system using React, PostgreSQL, and Chakra UI.  
-🔗 [View on GitHub](https://github.com/muzammilmunir/lms)
+🔗 [View on GitHub](https://github.com/muzammilmunir/learning-management-system)
 
 ### 🔹 Future Connect Dashboard  
 Realtime room scheduler using Vite + Tailwind + Firebase.  
