@@ -28,7 +28,7 @@
 
 Hi! I'm **Muzammil Munir**, a passionate **MERN Stack Developer** with 2+ years of experience in developing scalable web applications and secure backend systems. My technical expertise spans modern JavaScript frameworks and performance-optimized UI development.
 
-💡 Currently, I'm working at **Tech021** — where I help build secure and visual cloud environments using advanced technologies like **React** and **Node**.
+💡 Currently, I'm working at **Tech021** — where I help build secure and user-friendly web apps using advanced technologies like **React** and **Node**.
 
 📍 Based in Karachi, Pakistan — but working with global teams across Frontend, Backend, Wordpress, Shopify
 
@@ -51,8 +51,8 @@ Hi! I'm **Muzammil Munir**, a passionate **MERN Stack Developer** with 2+ years 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-00ED64?logo=python&logoColor=white&style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=mysql&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-00ED64?logo=mongodb&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
 
 ### Tools & Platforms
 ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat)
