@@ -51,14 +51,14 @@ Hi! I'm **Muzammil Munir**, a passionate **MERN Stack Developer** with 2+ years 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-00ED64?logo=python&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=mysql&logoColor=white&style=flat)
 
 ### Tools & Platforms
 ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat)
-![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
+![Figma](https://img.shields.io/badge/-Figma-1E1E1E?logo=figma&logoColor=white&style=flat)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style-flat)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat)
 
 ---
@@ -66,7 +66,7 @@ Hi! I'm **Muzammil Munir**, a passionate **MERN Stack Developer** with 2+ years 
 ## 🚀 Featured Projects
 
 ### 🔹 Web Accessibility Checker 
-Real-time chatbot with GraphQL subscriptions and Supabase realtime events.  
+Website Accessibility Compliance Checker using React, Node and MongoDB  
 🔗 [View on GitHub](https://github.com/muzammilmunir/web-accessibility-checker)
 
 ### 🔹 Learning Management System  
