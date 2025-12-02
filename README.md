@@ -64,11 +64,11 @@ Hi! I'm **Muzammil Munir**, a passionate **MERN Stack Developer** with 2+ years 
 
 ---
 
-## 🚀 Featured Projects
+ ## 🚀 Featured Projects 
 
-### 🔹 Web Accessibility Checker 
-Website Accessibility Compliance Checker using React, Node and MongoDB  
-🔗 [View on GitHub](https://github.com/muzammilmunir/web-accessibility-checker)
+<!-- ### 🔹 Web Accessibility Checker -->
+<!-- Website Accessibility Compliance Checker using React, Node and MongoDB   -->
+<!-- 🔗 [View on GitHub](https://github.com/muzammilmunir/web-accessibility-checker) -->
 
 ### 🔹 Learning Management System  
 Robust course management system using React, PostgreSQL, and Chakra UI.  
