@@ -98,13 +98,6 @@ Realtime room scheduler using Vite + Tailwind + Firebase.
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muzammilmunir&theme=gruvbox&no-frame=true&margin-w=5&margin-h=5" />
-</p>
-
----
-
 ## 📈 Profile Insights
 
 <p align="center">
