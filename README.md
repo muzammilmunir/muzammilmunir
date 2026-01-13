@@ -52,6 +52,7 @@ Hi! I'm **Muzammil Munir**, a passionate **MERN Stack Developer** with 2+ years 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![ReactNative](https://img.shields.io/badge/-ReactNative-61DAFB?logo=reactnative&logoColor=black&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-00ED64?logo=mongodb&logoColor=white&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
 
@@ -66,9 +67,9 @@ Hi! I'm **Muzammil Munir**, a passionate **MERN Stack Developer** with 2+ years 
 
  ## 🚀 Featured Projects 
 
-<!-- ### 🔹 Web Accessibility Checker -->
-<!-- Website Accessibility Compliance Checker using React, Node and MongoDB   -->
-<!-- 🔗 [View on GitHub](https://github.com/muzammilmunir/web-accessibility-checker) -->
+ ### 🔹 Ecommerce App + Stripe
+ Ecommerce Application using Typescript, NextJs, Node 
+🔗 [View on GitHub](https://github.com/muzammilmunir/next-ecommerce-with-stripe)
 
 ### 🔹 Learning Management System  
 Robust course management system using React, PostgreSQL, and Chakra UI.  
