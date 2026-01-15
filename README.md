@@ -3,14 +3,20 @@
 </h1>
 
 <p align="center">
-  <a href="https://twitter.com/muzzameal" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://muzammilmunir.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-808080?style=for-the-badge&logo=chromewebstore&logoColor=white" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/muzammilmunirdeveloper" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linuxmint&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://upwork.com/freelancers/~013771cc35c985b2a4" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-000000?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
   </a>
   <a href="https://www.instagram.com/muzameal" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://twitter.com/muzzameal" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
