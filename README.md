@@ -32,7 +32,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Muzammil Munir**, a passionate **Software Engineer** with 4+ years of experience in developing scalable web applications and secure backend systems. My technical expertise spans modern JavaScript frameworks and performance-optimized UI development.
+Hi! I'm **Muzammil Munir**, a passionate **Full Stack Developer** with 4+ years of experience in developing scalable web applications and secure backend systems. My technical expertise spans modern JavaScript frameworks and performance-optimized UI development.
 
 💡 Currently, I'm freelancing at **Upwork** — where I help build secure and user-friendly web apps using advanced technologies like **React** and **Node**.
 
