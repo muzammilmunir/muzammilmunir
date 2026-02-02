@@ -32,9 +32,9 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Muzammil Munir**, a passionate **MERN Stack Developer** with 2+ years of experience in developing scalable web applications and secure backend systems. My technical expertise spans modern JavaScript frameworks and performance-optimized UI development.
+Hi! I'm **Muzammil Munir**, a passionate **Software Engineer** with 4+ years of experience in developing scalable web applications and secure backend systems. My technical expertise spans modern JavaScript frameworks and performance-optimized UI development.
 
-💡 Currently, I'm working at **Tech021** — where I help build secure and user-friendly web apps using advanced technologies like **React** and **Node**.
+💡 Currently, I'm freelancing at **Upwork** — where I help build secure and user-friendly web apps using advanced technologies like **React** and **Node**.
 
 📍 Based in Karachi, Pakistan — but working with global teams across Frontend, Backend, Wordpress, Shopify
 
@@ -89,7 +89,7 @@ Realtime room scheduler using Vite + Tailwind + Firebase.
 
 ## 🏆 Awards & Leadership
 
-- 🥇 **Frontend Lead** — Tech021 — Present  
+- 🥇 **Frontend Lead** — Tech021 — 2025  
   Recognized for outstanding contributions
   
 ---
